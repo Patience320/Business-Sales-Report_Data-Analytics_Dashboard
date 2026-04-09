@@ -14,3 +14,13 @@ This project analyzes sales performance for a retail superstore across categorie
 
 - Sub-category insights (Phones, Copiers, Chairs, etc.)
 
+## Process 
+- Verified data for any missing values and anomalies.
+- Standardized data types across fields (converted relevant columns to text).
+- Promoted first row to headers for better structure on some fields.
+- Removed Postal Code field due to high number of null/empty values.
+- Converted Order Date from text to date format.
+- Identified and removed duplicate records.
+
+  
+
