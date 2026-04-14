@@ -59,7 +59,6 @@ This project analyzes sales performance for a retail superstore across categorie
 
 ## Dasbhoard link
 https://app.powerbi.com/groups/me/reports/e29976eb-c135-41d9-b658-386248023d3e/1f8da472fc8d66c37335?experience=power-bi
- 
 
   
 
