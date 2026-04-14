@@ -24,38 +24,47 @@ This project analyzes sales performance for a retail superstore across categorie
 
 ## Dashboard Insights
 
-## 1. Overall Sales & Targets 
-- Target sales were set at $0.05M, but actual sales reached $4.30M, exceeding the goal by 8499%.
-- This indicates exceptional performance far beyond expectations.
+## 1. Overall Performance (2015)
+-Sales: $4.30M vs. $3.5M target → +22.85% above goal.
+-Quantity Sold: 178K units (on target).
+-Profit: $1.47M, strong relative to sales.
+-Customers: 796, indicating high average revenue per customer.
+#The business exceeded both sales and profit targets, showing strong execution and efficiency.
 
-## 2. Customer Base
-- The business served 796 customers across multiple regions.
-- Largest customer bases are in California (428), England (347), and Ile-de-France/New York (267 each).
+## 2. Segment Breakdown
+-Consumer: 92K units (largest contributor).
+-Corporate: 54K units.
+-Home Office: 33K units.
+#Consumer dominates, but corporate is a solid secondary segment. Home Office is relatively small, suggesting untapped potential.
 
-## 3. Segment Performance
-- Consumer segment: 2.31M sales (18.27%).
-- Corporate segment: 3.82M sales (30.25%).
-- Home Office segment: 6.51M sales (51.48%).
-- Insight: Home Office customers are the strongest revenue drivers, followed by Corporate.
+## 3. Regional Sales
+-Top markets: United States ($2.3M), Australia ($925K), France ($859K), China ($701K).
+-Other strong contributors: Germany, Mexico, India, UK.
+-Smaller markets: Cuba, Nicaragua, Guatemala, Dominican Republic (<$200K each).
+#Sales are globally diversified but heavily concentrated in the US. Asia and Latin America show growth opportunities.
 
-## 4. Regional Sales
-- Top-performing regions: Western Europe (2.0M), Central America (1.73M), and Oceania (1.5M).
-- Lower-performing regions include Central Africa, Caribbean, and North Africa (all below 0.5M).
+## 4. Profit Trends by Category
+-Technology: Rapid growth (46K in 2012 → 235K in 2015).
+-Office Supplies: Steady growth (89K → 180K).
+-Furniture: Modest growth (58K → 89K).
+#Technology is the profit engine. Furniture lags behind, suggesting margin challenges.
 
-## 5. Category & Sub-Category
-- Technology leads with 4.74M (37.53%).
-- Furniture contributes 4.11M (32.51%).
-- Office Supplies adds 3.79M (29.96%).
-- Sub-categories with highest sales: Phones, Copiers, Chairs, Bookcases, and Storage.
+## 5. Geographic Distribution
+-Map highlights strong presence in North America, Europe, and Asia.
+-Latin America and Africa show smaller but notable contributions.
+#The company has global reach, but regional strategies could be tailored to boost underperforming markets.
 
-## 6. Shipping & Logistics
-- Standard Class shipping dominates in quantity across years.
-- Shipping costs are highest for Phones, Copiers, and Chairs, indicating these items are expensive to deliver.
-- Faster modes (Same Day, First Class) are less frequently used.
+## 6. Shipping Costs vs Profit 
+-Profit ($1.47M) is only slightly higher than shipping costs ($1.36M).
+- High shipping costs relative to profit indicate potential inefficiencies in supply chain or pricing strategy relative to shipping mode.
+-Even small improvements in logistics could significantly boost net profitability. 
 
-## 7. State-Level Insights
-- California, England, and New York are top states in both sales and customer count.
-- Texas and smaller regions contribute less, highlighting geographic concentration of demand.
+## Key Recommendations
+-Continue investing in technology products because they are the highest growth and profitability.
+-Expand Corporate Segment, it has a potential to grow beyond Consumer dominance.
+-Focus on scaling in Asia and Latin America where growth potential is high.
+-Shipping Costs in the business are too high. Investigate on ways to manage and reduce costs. 
+-Review shipping partners, routes, and packaging to reduce costs.
 
 ## Dasbhoard link
 https://app.powerbi.com/groups/me/reports/e29976eb-c135-41d9-b658-386248023d3e/1f8da472fc8d66c37335?experience=power-bi
